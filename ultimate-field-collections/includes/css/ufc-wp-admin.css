@@ -1,0 +1,27 @@
+[data-name$="ufc_field_settings_position_position"] [data-name="alignment"] .acf-input .acf-button-group{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px;
+  overflow: hidden;
+  justify-items: center;
+  background-color: rgb(204 208 212);
+  /* box-shadow: 0 0 0 1px rgb(204 208 212); */
+  width: 100%;
+  border: 1px solid rgb(204 208 212);
+  padding: 0;
+}
+[data-name$="ufc_field_settings_position_position"] [data-name="alignment"] .acf-input .acf-button-group label,
+[data-name$="ufc_field_settings_position_position"] [data-name="alignment"] .acf-input .acf-button-group label input{
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  border-radius: 0;
+}
+[data-name$="ufc_field_settings_position_position"] [data-name="alignment"] .acf-input .acf-button-group label{
+  border: 0;
+  box-shadow: 0 0 0 1px rgb(204 208 212);
+}
+[data-name$="ufc_field_settings_position_position"] [data-name="alignment"] .acf-input .acf-button-group label input{
+  
+}
